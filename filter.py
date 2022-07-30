@@ -1,7 +1,7 @@
 # Censors matching words in a string
 
 
-words = ["cake"]
+words = ["cake, house, room, cat, dog, fish, silk"]
 censor = "*"
 
 def filter(str):
